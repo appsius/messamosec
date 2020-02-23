@@ -1,3 +1,3 @@
 The secrets app.
 
-Deployed to: https://messamosec.ilyasustunkaya234434.now.sh/
+Deployed to: https://messamos.netlify.com/
